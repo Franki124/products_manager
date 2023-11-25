@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943521415913",
+    "project_id": "product-manager-caa92",
+    "storage_bucket": "product-manager-caa92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943521415913:android:af927477583fd2d4026678",
+        "android_client_info": {
+          "package_name": "com.example.products_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaBGOQ6JKg5RTDsR14MzPExLVUdXgvsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
