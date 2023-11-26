@@ -36,7 +36,7 @@ class _ProductListPageState extends State<ProductListPage> {
       ),
       body: Container(
         width: 200.w,
-        height: 400.h,
+        height: 200.h,
         decoration: const BoxDecoration(
             color: Colors.white,
             borderRadius: BorderRadius.only(
