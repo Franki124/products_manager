@@ -21,6 +21,7 @@ dependencies:
   cloud_firestore: ^4.13.2
 
 dev_dependencies:
+  flutter_gherkin:
   flutter_test:
     sdk: flutter
   integration_test:

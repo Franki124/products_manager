@@ -56,6 +56,7 @@ void main() {
     });
 
     testWidgets('Update the created product', (tester) async {
+
       await launchApp(tester);
 
       final Finder productItem = find.text('Smartphone');
